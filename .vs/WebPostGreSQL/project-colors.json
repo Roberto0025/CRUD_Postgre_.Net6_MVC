@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0664498b-f28f-4967-9d56-28ebb2ab6ece": {
+      "ProjectGuid": "0664498b-f28f-4967-9d56-28ebb2ab6ece",
+      "DisplayName": "WebPostGreSQL",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
